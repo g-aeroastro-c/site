@@ -9,7 +9,7 @@ The Figma design file contains the visual representation of the project's user i
 1. Open [the Design here](https://www.figma.com/design/ihKk7KS9me8ZY26lFVyoGe/GAAC-Website?node-id=0-1&t=zEyN753O1MNUt0Nn-1).
 2. Log in with your credentials.
 3. Navigate to the shared project folder.
-4. Open the design file named **`[Insert File Name]`**.
+4. Open the design file named **`[GAAC-Website]`**.
 
 ## Key Sections in the File
 - **Wireframes**: Initial low-fidelity layouts for the project, the three pages contains the responsive beahavior of the website across multiple frames.
