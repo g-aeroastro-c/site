@@ -5,7 +5,7 @@ import React from "react";
 const Hero: React.FC = () => {
   return (
     <main
-      className="relative flex flex-col items-center justify-start"
+      className="relative flex flex-col items-center justify-start pb-xx"
       style={{
         display: "inline-flex",
         height: "900px",
