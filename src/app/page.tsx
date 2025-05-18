@@ -1,11 +1,12 @@
-import Hero from "@/components/hero";
+import React from 'react';
+import ProjectSec1 from '../components/projectsec1'; // Update path based on your folder structure
 
-
-export default function Home() {
+const ProjectsPage = () => {
   return (
-    <div className="grid grid-rows-[2px_1fr] items-center justify-items-center min-h-screen p-8 pb-20 gap-4 font-[family-name:var(--font-geist-sans)]">
-      {/* Hero Section */}
-      <Hero />
-    </div>
+    <main>
+      <ProjectSec1 />
+    </main>
   );
-}
+};
+
+export default ProjectsPage;
