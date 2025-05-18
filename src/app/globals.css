@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.with-divider::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -1px;
+  height: 100%;
+  width: 2px;
+  background-color: rgba(255, 255, 255, 0.2); /* subtle white line */
+  transform: translateX(50%);
+}
