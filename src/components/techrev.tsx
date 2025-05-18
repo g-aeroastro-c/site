@@ -9,7 +9,7 @@ const TechRev = () => {
 
         {/* Logo and Intro Section */}
         <div className="flex flex-col md:flex-row items-start md:items-center gap-6 mb-12">
-          {/* Logo */}
+          {/* Logo of out club  */}
           <img src="/logo.svg" alt="Logo" className="h-20 w-20 md:h-28 md:w-28" />
 
           {/* Text Content */}
