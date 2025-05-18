@@ -1,4 +1,4 @@
-
+// Be Part of the Future Tech Revolution
 import React from "react";
 import { ArrowUpRight } from "lucide-react";
 
